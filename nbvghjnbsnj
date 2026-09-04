@@ -6,9 +6,31 @@
     "Hindi",
     "Bhojpuri",
     "English",
+    "Punjabi",
+    "Jazz",
     "Other"
   ],
   "songs": [
+    {
+      "name": "King Nasser phonk",
+      "id": 76650356472656,
+      "category": "Phonk"
+    },
+    {
+      "name": "Var Var",
+      "id": 106251060487387,
+      "category": "Phonk"
+    },
+    {
+      "name": "MONTAGEM BASU",
+      "id": 82726244444279,
+      "category": "Phonk"
+    },
+    {
+      "name": "GLORY",
+      "id": 80442979651569,
+      "category": "Phonk"
+    },
     {
       "name": "100k AURA PHONK",
       "id": 99979837873059,
@@ -2100,6 +2122,56 @@
       "category": "Bhojpuri"
     },
     {
+      "name": "shape of you",
+      "id": 121559463895939,
+      "category": "English"
+    },
+    {
+      "name": "Heat Waves",
+      "id": 109665450158022,
+      "category": "English"
+    },
+    {
+      "name": "Cheap Thrills",
+      "id": 115492336583856,
+      "category": "English"
+    },
+    {
+      "name": "Thoughts",
+      "id": 87373439541502,
+      "category": "English"
+    },
+    {
+      "name": "Heavenly Drift Funk",
+      "id": 73737713591256,
+      "category": "English"
+    },
+    {
+      "name": "FEVER",
+      "id": 81693779846601,
+      "category": "English"
+    },
+    {
+      "name": "PINKPANTHERES",
+      "id": 80084251996200,
+      "category": "English"
+    },
+    {
+      "name": "SHAPE OF YOU - ED SHEERAN",
+      "id": 121559463895939,
+      "category": "English"
+    },
+    {
+      "name": "WANT YOU - CLARA LA SAN",
+      "id": 138067913531622,
+      "category": "English"
+    },
+    {
+      "name": "Sweater Weather",
+      "id": 98310334398449,
+      "category": "English"
+    },
+    {
       "name": "Alone",
       "id": 105512964264815,
       "category": "English"
@@ -2658,6 +2730,711 @@
       "name": "Zamana",
       "id": 138409201331401,
       "category": "English"
+    },
+    {
+      "name": "DRAKE - ONE DANCE",
+      "id": 138111805607934,
+      "category": "English"
+    },
+    {
+      "name": "TRIM - BOAT",
+      "id": 119621760095919,
+      "category": "English"
+    },
+    {
+      "name": "FNAF - JOIN US FOR A BITE (JERSEY CLUB)",
+      "id": 102752562021434,
+      "category": "English"
+    },
+    {
+      "name": "WATER X WORK",
+      "id": 102573267664123,
+      "category": "English"
+    },
+    {
+      "name": "UNLEAKED SONG",
+      "id": 127153579474511,
+      "category": "English"
+    },
+    {
+      "name": "POTSU - I'M CLOSING MY EYES",
+      "id": 90233200492479,
+      "category": "English"
+    },
+    {
+      "name": "AXXTUREL - KURXXED EMERALDXX",
+      "id": 92687960030551,
+      "category": "English"
+    },
+    {
+      "name": "TIKTOK SONG",
+      "id": 71105881541052,
+      "category": "English"
+    },
+    {
+      "name": "WIFISKELENTON - YOUR ALREADY TOO LATE",
+      "id": 133435792119877,
+      "category": "English"
+    },
+    {
+      "name": "JUICE WRLD - WASTED (REMIX)",
+      "id": 130796457790083,
+      "category": "English"
+    },
+    {
+      "name": "UNLEAKED SONG",
+      "id": 9788850720343,
+      "category": "English"
+    },
+    {
+      "name": "UNLEAKED SONG",
+      "id": 128403131745767,
+      "category": "English"
+    },
+    {
+      "name": "XXXTENTACION - LOOK AT ME",
+      "id": 135102434316882,
+      "category": "English"
+    },
+    {
+      "name": "JAYDES - BIN FREESTYLE",
+      "id": 119968468377854,
+      "category": "English"
+    },
+    {
+      "name": "XAVIERSOBASED - WORTH IT",
+      "id": 127655532136682,
+      "category": "English"
+    },
+    {
+      "name": "FETTY WAP - TRAP QUEEN",
+      "id": 125343825172690,
+      "category": "English"
+    },
+    {
+      "name": "JUICE WRLD - WASTED",
+      "id": 80670827636899,
+      "category": "English"
+    },
+    {
+      "name": "XXXTENTACION - HOPE",
+      "id": 99551853291230,
+      "category": "English"
+    },
+    {
+      "name": "LIL UZI VERT - 20MINS",
+      "id": 93835139456652,
+      "category": "English"
+    },
+    {
+      "name": "LIL DICKEY - EARTH",
+      "id": 90110988537685,
+      "category": "English"
+    },
+    {
+      "name": "HARRY STYLES - SIGN OF TIMES",
+      "id": 115613075227081,
+      "category": "English"
+    },
+    {
+      "name": "UNLEAKED SONG",
+      "id": 91512611126192,
+      "category": "English"
+    },
+    {
+      "name": "PLAYBOI CARTI - CANCUN",
+      "id": 127892914152292,
+      "category": "English"
+    },
+    {
+      "name": "UNLEAKED RAP",
+      "id": 12705530881244,
+      "category": "English"
+    },
+    {
+      "name": "RICEGUM",
+      "id": 127437528951448,
+      "category": "English"
+    },
+    {
+      "name": "COUNTING STARS",
+      "id": 107645384883900,
+      "category": "English"
+    },
+    {
+      "name": "SUS SONG",
+      "id": 79831435305084,
+      "category": "English"
+    },
+    {
+      "name": "SHOTGUN WILLY",
+      "id": 116657599802159,
+      "category": "English"
+    },
+    {
+      "name": "NETTSPEND - SOBER",
+      "id": 107925412907897,
+      "category": "English"
+    },
+    {
+      "name": "LONELY LONELY",
+      "id": 88221297532970,
+      "category": "English"
+    },
+    {
+      "name": "KOKSVL - NALAKA",
+      "id": 123533840522287,
+      "category": "English"
+    },
+    {
+      "name": "WIFISKELENTON",
+      "id": 97253441342774,
+      "category": "English"
+    },
+    {
+      "name": "MIGUEL SONG",
+      "id": 88596342545713,
+      "category": "English"
+    },
+    {
+      "name": "LOUD FORNITE EMOTE",
+      "id": 80652856472869,
+      "category": "English"
+    },
+    {
+      "name": "UNLEAKED RAP",
+      "id": 91141814943905,
+      "category": "English"
+    },
+    {
+      "name": "MIGUEL PHONK",
+      "id": 133803783550284,
+      "category": "English"
+    },
+    {
+      "name": "NARCB0Y (LOUD)",
+      "id": 95404319098059,
+      "category": "English"
+    },
+    {
+      "name": "Stuck on You New Punjabi Song",
+      "id": 92771177552423,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Western Punjabi Bhangra Dhol Beat",
+      "id": 136665072148354,
+      "category": "Punjabi"
+    },
+    {
+      "name": "BLESSINGS New Punjabi Song",
+      "id": 87073897877762,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Alone Sad Punjabi Song 2025",
+      "id": 82785620948529,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Love Feel New Punjabi Song",
+      "id": 98782454029990,
+      "category": "Punjabi"
+    },
+    {
+      "name": "College Days New Punjabi Song",
+      "id": 70396790417235,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Alone Sad Punjabi Song",
+      "id": 134910708390779,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Jag Chor Dia Punjabi",
+      "id": 78465649557695,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Kismat De Dive",
+      "id": 86076917844325,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Never Give Up Punjabi Rap",
+      "id": 105291219740166,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Badmashi New Punjabi Song",
+      "id": 101629790022166,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Dil Haarda New Punjabi Song",
+      "id": 85322413880760,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Desi Gangster Punjabi Rap",
+      "id": 84256177283703,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Att New Punjabi Song",
+      "id": 78941039670387,
+      "category": "Punjabi"
+    },
+    {
+      "name": "WARNING New Punjabi Song",
+      "id": 77642635578270,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Yaar Saade New Punjabi Song",
+      "id": 93346288111590,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Gym Anthem New Punjabi Song",
+      "id": 131422500622060,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Kala Maskara New Punjabi Song",
+      "id": 123560369202143,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Mera Koi Na Sahara Waheguru Punjabi Song",
+      "id": 84611175822392,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Tera Takna New Punjabi Song",
+      "id": 99214194190760,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Bhangra Voltage",
+      "id": 77929673218882,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Midnight Gidda Rush",
+      "id": 90565858125112,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Jashn De Dhol",
+      "id": 111489932227483,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Bhangra Voltage Dhol",
+      "id": 77352189696096,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Rang De Dancefloor",
+      "id": 111756108684916,
+      "category": "Punjabi"
+    },
+    {
+      "name": "#####",
+      "id": 99173516265589,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Naach Di Lehar V2",
+      "id": 89229267301448,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Dhol Walking The Dust V2",
+      "id": 112622927987824,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Dil Nu Nacha De Punjabi Party Mood",
+      "id": 94962291968991,
+      "category": "Punjabi"
+    },
+    {
+      "name": "PUNJABI 22",
+      "id": 121655882479401,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Tere Ishq Da Nasha",
+      "id": 129848264822696,
+      "category": "Punjabi"
+    },
+    {
+      "name": "#####",
+      "id": 71167143354884,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Talab",
+      "id": 133309452525687,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Asqon Mein Tere Chehra 20",
+      "id": 102809372150042,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Majnu Di Tanhai",
+      "id": 76682119708207,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Main Andron Mar Gaya",
+      "id": 129058918693606,
+      "category": "Punjabi"
+    },
+    {
+      "name": "#####",
+      "id": 123288624888904,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Tera Aashiq Ban Gaya",
+      "id": 125275466602401,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Dil Lagayi Sajna",
+      "id": 94254808769417,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Ek Ladki Ko Dekha To Aesa Laga",
+      "id": 115089273432782,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Bullet Talk EZEZ",
+      "id": 73037054381828,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Balle Balle Punjabi Song",
+      "id": 101682048332257,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Tunak Tunak",
+      "id": 117542440446894,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Swaad",
+      "id": 125800612683016,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Mirchaan",
+      "id": 89597415160893,
+      "category": "Punjabi"
+    },
+    {
+      "name": "You Drill",
+      "id": 72479777789620,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Kamal Hogyi",
+      "id": 136891850788169,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Punjabi Anthem",
+      "id": 95903202203393,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Punjabi Aagye",
+      "id": 76453914422555,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Billi Akh",
+      "id": 88847441771664,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Chal Jaan De Na",
+      "id": 135169053277219,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Sansein",
+      "id": 91504531678365,
+      "category": "Punjabi"
+    },
+    {
+      "name": "Chill Jazz",
+      "id": 1845341094,
+      "category": "Jazz"
+    },
+    {
+      "name": "Elevator Jazz Easy Listening Groove",
+      "id": 117496769617516,
+      "category": "Jazz"
+    },
+    {
+      "name": "Coffee Shop Jazz Hour",
+      "id": 140349625136896,
+      "category": "Jazz"
+    },
+    {
+      "name": "Peaceful Jazz Instrumental",
+      "id": 140451602298798,
+      "category": "Jazz"
+    },
+    {
+      "name": "Uptown Stroll",
+      "id": 135242814447458,
+      "category": "Jazz"
+    },
+    {
+      "name": "Bossa Breeze",
+      "id": 112264709514001,
+      "category": "Jazz"
+    },
+    {
+      "name": "Cat Chase",
+      "id": 1839444520,
+      "category": "Jazz"
+    },
+    {
+      "name": "Smooth Ambient Jazz Piano Gentle Trumpet",
+      "id": 101443293051695,
+      "category": "Jazz"
+    },
+    {
+      "name": "Peaceful Nature Walk",
+      "id": 140669874804098,
+      "category": "Jazz"
+    },
+    {
+      "name": "Dreams Above the Rain",
+      "id": 140566103832758,
+      "category": "Jazz"
+    },
+    {
+      "name": "Warm Elevator Jazz Background Music",
+      "id": 121615455804057,
+      "category": "Jazz"
+    },
+    {
+      "name": "Quiet Focus Patterns",
+      "id": 140139016996389,
+      "category": "Jazz"
+    },
+    {
+      "name": "Island Smooth Waves",
+      "id": 138532985066732,
+      "category": "Jazz"
+    },
+    {
+      "name": "City Lights Swing",
+      "id": 105647451905847,
+      "category": "Jazz"
+    },
+    {
+      "name": "LoFi Jazz Beats LoFi Hip Hop Chillhop TrackBN",
+      "id": 140277562613590,
+      "category": "Jazz"
+    },
+    {
+      "name": "Cozy Autumn Cafe Vibes with Smooth Jazz",
+      "id": 140331368291861,
+      "category": "Jazz"
+    },
+    {
+      "name": "Relaxing Elevator Jazz Background Smooth Sounds",
+      "id": 115115619185822,
+      "category": "Jazz"
+    },
+    {
+      "name": "Ambient Clarity",
+      "id": 116784539951494,
+      "category": "Jazz"
+    },
+    {
+      "name": "Hot Tub Heat",
+      "id": 137573587477809,
+      "category": "Jazz"
+    },
+    {
+      "name": "Dark Damp Cave",
+      "id": 137658646948907,
+      "category": "Jazz"
+    },
+    {
+      "name": "Piano Bar Jazz a",
+      "id": 1841979451,
+      "category": "Jazz"
+    },
+    {
+      "name": "The Football Freestyler Latin Soccer Tricks",
+      "id": 136774397148813,
+      "category": "Jazz"
+    },
+    {
+      "name": "Super Mario Bros Jazz Rock Theme",
+      "id": 76409854183372,
+      "category": "Jazz"
+    },
+    {
+      "name": "Cherry Bicycle",
+      "id": 140522140523060,
+      "category": "Jazz"
+    },
+    {
+      "name": "Easy Listening Positive Jazz",
+      "id": 79463407625396,
+      "category": "Jazz"
+    },
+    {
+      "name": "Soft Jazz of the Espresso Machine",
+      "id": 138532500892337,
+      "category": "Jazz"
+    },
+    {
+      "name": "Velvet Conversations",
+      "id": 133216761677037,
+      "category": "Jazz"
+    },
+    {
+      "name": "Lobby in Slow Time",
+      "id": 138524894251708,
+      "category": "Jazz"
+    },
+    {
+      "name": "Chill Jazz",
+      "id": 1845321082,
+      "category": "Jazz"
+    },
+    {
+      "name": "Smooth Jazz Nights",
+      "id": 140464228692903,
+      "category": "Jazz"
+    },
+    {
+      "name": "Golden Beach Jazz",
+      "id": 125114204214284,
+      "category": "Jazz"
+    },
+    {
+      "name": "Smooth Slow Jazz Ambience for Background Listening",
+      "id": 139175004483544,
+      "category": "Jazz"
+    },
+    {
+      "name": "Old Gramophone Jazz Hidden Bar Sessions",
+      "id": 119374889049308,
+      "category": "Jazz"
+    },
+    {
+      "name": "Palm Beach",
+      "id": 1837196544,
+      "category": "Jazz"
+    },
+    {
+      "name": "Manhattan Chase Action Jazz Theme",
+      "id": 134157706807016,
+      "category": "Jazz"
+    },
+    {
+      "name": "Monday Vibes Twenty Nine",
+      "id": 133529757517306,
+      "category": "Jazz"
+    },
+    {
+      "name": "Parallel Grooves",
+      "id": 140512661138843,
+      "category": "Jazz"
+    },
+    {
+      "name": "WahWah Funky Smooth Jazz",
+      "id": 140073352616820,
+      "category": "Jazz"
+    },
+    {
+      "name": "Intense Sword Duel",
+      "id": 122681644942798,
+      "category": "Jazz"
+    },
+    {
+      "name": "Coffee Break",
+      "id": 1845444990,
+      "category": "Jazz"
+    },
+    {
+      "name": "Title Theme Jazz Reimagining",
+      "id": 135664402512846,
+      "category": "Jazz"
+    },
+    {
+      "name": "Ocean Drift",
+      "id": 107192747515288,
+      "category": "Jazz"
+    },
+    {
+      "name": "Quiet Streets at 2AM",
+      "id": 140515672182827,
+      "category": "Jazz"
+    },
+    {
+      "name": "Love Dont Belong to the Young",
+      "id": 134544345498939,
+      "category": "Jazz"
+    },
+    {
+      "name": "Ambient Jazz",
+      "id": 76554466156961,
+      "category": "Jazz"
+    },
+    {
+      "name": "Accordion Breeze",
+      "id": 138035341510456,
+      "category": "Jazz"
+    },
+    {
+      "name": "Rainy Day Work Piano",
+      "id": 136687089974030,
+      "category": "Jazz"
+    },
+    {
+      "name": "Piano Cat",
+      "id": 139316457268579,
+      "category": "Jazz"
+    },
+    {
+      "name": "Break Out",
+      "id": 1845318945,
+      "category": "Jazz"
+    },
+    {
+      "name": "Back Chat Mood",
+      "id": 1845261540,
+      "category": "Jazz"
+    },
+    {
+      "name": "Relaxed Tempo for Evening Tables",
+      "id": 135373020084996,
+      "category": "Jazz"
+    },
+    {
+      "name": "Happy Piano Walk Coffee Shop Ambience",
+      "id": 130592313262505,
+      "category": "Jazz"
     },
     {
       "name": "Ah",
